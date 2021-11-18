@@ -32,8 +32,7 @@ We're also very open to collaborations and open-source fansubbing projects! All 
 available in this organisation, and you are free to create your own copies to build upon them as you'd like. Full
 credit is not required, but we would appreciate it!
 
-As these repositories are public, you can leave Issues and Pull Requests to let us know about any problems in our
-<img src="img/misc/hr.png" style="width: auto;">
+As these repositories are public, you can leave Issues and Pull Requests to let us know about any problems in our subtitles or send in your own fixes!
 
 Want to work with Kaleido? We can try to work something out! Contact us through <a href=https://discord.gg/dk7aadV target="_blank">Discord</a>,
 and if there is staff interest, we can continue talks and see what sprouts out of it!
@@ -46,7 +45,7 @@ and if there is staff interest, we can continue talks and see what sprouts out o
 
 <!--START_SECTION:activity-->
 
-<!-- TODO: Make deschtimes progress visible here? -->
+<!-- TODO: Make deschtimes progress visible here somehow or another? Shinon? -->
 
 <img src="img/misc/hr.png" style="width: auto;">
 
@@ -55,7 +54,7 @@ and if there is staff interest, we can continue talks and see what sprouts out o
 <details><summary>When will X be done?</summary>
 <ul>
     <li>
-    We are done when we are done, simple as that. If you want specific details on what the hold-up may be, please check our main website for the Deschtimes feed, or feel free to ask in our Discord server (and if you have the relevant expertise, please do not hesitate to help out).
+    We're done when we're done, simple as that really. If you want specific details on what the hold-up may be, please check our <a href="https://kaleido.kageru.moe/" target="_blank">main website</a> for the Deschtimes feed, or feel free to ask in our <a href="https://discord.gg/dk7aadV" target="_blank">Discord server</a> (and if you have the relevant expertise, please do not hesitate to help out!).
     </li>
 </ul>
 </details>
