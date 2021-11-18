@@ -41,7 +41,9 @@ and if there is staff interest, we can continue talks and see what sprouts out o
 
 <hr style="border-color: #fd76aa; filter: blur(0.7px)"></hr>
 
-![Metrics](https://metrics.lecoq.io/Kaleido-subs?template=classic&base.metadata=0&lines=1&tweets=1&tweets.attachments=true&tweets.limit=3&tweets.user=KaleidoSubs&config.timezone=Europe%2FAmsterdam)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Kaleido-subs/.github/30687bc48758ec1468d7794723d6dc41c9aa8c86/github-metrics.svg">
+</p>
 
 <!--START_SECTION:activity-->
 
