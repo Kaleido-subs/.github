@@ -3,7 +3,7 @@
 <h1 align="center">Kaleido-subs, an Anime Fansubbing Group</h1>
 
 <p style="text-align: center; margin: 10px;">
-    <img src="banners/CCC1.jpg" style="border-radius: 15px"></img>
+    <img src="./../banners/CCC1.jpg" style="border-radius: 15px"></img>
 </p>
 <hr style="border-color: #fd76aa; filter: blur(0.7px)"></hr>
 
