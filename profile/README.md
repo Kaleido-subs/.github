@@ -6,16 +6,16 @@
 <img src="img/misc/hr.png" style="width: auto;">
 
 <h2 align="center">Connect with us!</h2>
-<div style="text-align: center;">
+<p align="center">
 <a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/discord.png" alt="" /></a>
 <a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/chrome.png" alt=""/></a>
 <a href="https://twitter.com/kaleidosubs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/twitter.png" alt="" /></a>
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
 <img style="display: inline-block; margin: 10px;" src="https://komarev.com/ghpvc/?username=Kaleido-subs&color=fd76aa&label=Views"><img>
 </div>
-
+</p>
 
 <img src="img/misc/hr.png" style="width: auto;">
 
