@@ -5,10 +5,10 @@
 </p>
 <img src="img/misc/hr.png" style="width: auto;">
 
-<h2 align="center">Connect with us!</h2>
+<h3 align="center">Connect with us!</h3>
 <p align="center">
-<a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/discord.png" alt="" /></a>
-<a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/chrome.png" alt=""/></a>
+<a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/discord.png" alt="" /></a>  
+<a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/chrome.png" alt=""/></a>  
 <a href="https://twitter.com/kaleidosubs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/twitter.png" alt="" /></a>
 </p>
 
