@@ -49,7 +49,7 @@ and if there is staff interest, we can continue talks and see what sprouts out o
 
 <img src="img/misc/hr.png" style="width: auto;">
 
-<h2 align="center"> Frequently Asked Questions</h2>
+<h3 align="center"> Frequently Asked Questions</h3>
 
 <details><summary>When will X be done?</summary>
 <ul>
