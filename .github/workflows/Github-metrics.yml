@@ -2,7 +2,7 @@
 name: Metrics embed
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 12 * * *"}]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest

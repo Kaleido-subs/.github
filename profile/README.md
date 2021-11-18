@@ -7,9 +7,9 @@
 
 <h2 align="center">Connect with us!</h2>
 <div style="text-align: center;">
-<a href="https://discord.gg/dk7aadV" target="blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="" /></a>
-<a href="https://kaleido.kageru.moe/" target="blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/chrome.png" alt=""/></a>
-<a href="https://twitter.com/kaleidosubs" target="blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/twitter.png" alt="" /></a>
+<a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="" /></a>
+<a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/chrome.png" alt=""/></a>
+<a href="https://twitter.com/kaleidosubs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/twitter.png" alt="" /></a>
 </div>
 
 <div style="text-align: center;">
@@ -52,10 +52,34 @@ and if there is staff interest, we can continue talks and see what sprouts out o
 
 <h2 align="center"> Frequently Asked Questions</h2>
 
+<details><summary>When will X be done?</summary>
+<ul>
+    <li>
+    We are done when we are done, simple as that. If you want specific details on what the hold-up may be, please check our main website for the Deschtimes feed, or feel free to ask in our Discord server (and if you have the relevant expertise, please do not hesitate to help out).
+    </li>
+</ul>
+</details>
+
 <details><summary>How do I build your subtitles?</summary>
-    - lorem ipsum
+<ul>
+    <li>
+    We use a tool called <a href=https://github.com/Myaamori/SubKt target="_blank">SubKt</a> to build all our subtitle scripts. You can build the subtitles by running `./gradlew merge.01` (or other episodes). For muxing, you must make sure the name of the encode you'd like to mux with matches the "premux" property of the project (check `sub.properties`), and then run `./gradlew mux.01`. For further questions, please check out the official <a href="https://github.com/Myaamori/SubKt/tree/master/docs" target="_blank">SubKt documentation</a>.
+    </li>
+</ul>
 </details>
 
 <details><summary>Can I translate your translation into another language?</summary>
-    - lorem ipsum
+<ul>
+    <li>
+    By all means, please do! Credit would be much appreciated if you make use of our subtitles. You may also want to make sure to update the `sub.properties` before you start building your subtitles.
+    </li>
+</ul>
+</details>
+
+<details><summary>Will you translate X or Y for me?</summary>
+<ul>
+    <li>
+    We do not currently accept specific subbing requests. If you're interested in doing it as a project, we may consider doing it if there's staff interest and you already have some staff of your own.
+    </li>
+</ul>
 </details>
