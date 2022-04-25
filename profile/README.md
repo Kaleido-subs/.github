@@ -26,7 +26,7 @@ Kaleido is a fansub group aimed at high-quality translation and localisation, al
 quality, no matter how long it may take.
 
 Kaleido operates primarily through a freelancer-style model. We have a few core members, and connect with other fansubbing
-peers to work on projects. This opens the doors to both veteren and green fansubbers to try their hands at projects and
+peers to work on projects. This opens the doors to both veteran and green fansubbers to try their hands at projects and
 create some fansubs.
 
 <img src="img/misc/hr.png" style="width: auto;">
