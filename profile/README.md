@@ -1,26 +1,25 @@
 <!-- TO-DO: Figure out why <style> tags don't work -->
-<img src="img/misc/hr.png" style="width: auto;">
+<img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 <p style="text-align: center; margin: 10px;">
-    <img src="img/banners/banner.jpg" style="border-radius: 15px" alt="banner"></img>
+    <img src="../img/banners/banner.jpg" style="border-radius: 15px" alt="banner"></img>
 </p>
 
-<img src="img/misc/hr.png" style="width: auto;">
+<img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 <h3 align="center">Connect with us!</h3>
 <p align="center">
-<a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/discord.png" alt="Discord" /></a>
-<a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/chrome.png" alt="Website"/></a>
-<a href="https://nyaa.si/user/Kaleido-subs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/cat.jpg" alt="Cat Site"/></a>
-<a href="https://twitter.com/kaleidosubs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="img/icons/twitter.png" alt="Twitter" /></a>
+<a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="Discord" /></a>
+<a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/chrome.png" alt="Website"/></a>
+<a href="https://nyaa.si/user/Kaleido-subs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/cat.jpg" alt="Cat Site"/></a>
+<a href="https://twitter.com/kaleidosubs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/twitter.png" alt="Twitter" /></a>
 </p>
 
 <p align="center">
-    <img style="display: inline-block; margin: 10px;" src="https://komarev.com/ghpvc/?username=Kaleido-subs&color=fd76aa&label=Views"><img>
-</div>
+    <img style="display: inline-block; margin: 10px;" alt="view counter" src="https://komarev.com/ghpvc/?username=Kaleido-subs&color=fd76aa&label=Views"><img>
 </p>
 
-<img src="img/misc/hr.png" style="width: auto;">
+<img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 Kaleido is a fansub group aimed at high-quality translation and localisation, alongside high video- and typesetting
 quality, no matter how long it may take.
@@ -29,7 +28,7 @@ Kaleido operates primarily through a freelancer-style model. We have a few core 
 peers to work on projects. This opens the doors to both veteran and green fansubbers to try their hands at projects and
 create some fansubs.
 
-<img src="img/misc/hr.png" style="width: auto;">
+<img src="../img/misc/hr.png" alt="divider"style="width: auto;">
 
 We're very open to collaborations and open-source fansubbing projects! All our finalised releases will be publicly
 available in this organisation, and you are free to create your own forks to build upon them as you'd like. Full credit
@@ -42,7 +41,7 @@ Want to work with Kaleido? We can try to work something out! Contact us through
 <a href=https://discord.gg/dk7aadV target="_blank">Discord</a>, and if there is staff interest, we can continue talks
 and see what sprouts out of it!
 
-<img src="img/misc/hr.png" style="width: auto;">
+<img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Kaleido-subs/.github/30687bc48758ec1468d7794723d6dc41c9aa8c86/github-metrics.svg">
@@ -50,7 +49,7 @@ and see what sprouts out of it!
 
 <!-- TODO: Make deschtimes progress visible here somehow or another? Shinon? -->
 
-<img src="img/misc/hr.png" style="width: auto;">
+<img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 <h3 align="center"> Frequently Asked Questions</h3>
 
@@ -95,4 +94,4 @@ and see what sprouts out of it!
 </ul>
 </details>
 
-<img src="img/misc/hr.png" style="width: auto;">
+<img src="../img/misc/hr.png" alt="divider" style="width: auto;">
