@@ -33,7 +33,6 @@ jobs:
             fansub-git-guide
           config_timezone: Europe/Amsterdam
           config_output: png
-          plugin_calendar: yes
           plugin_rss: yes
           plugin_rss_source: https://nyaa.si/?page=rss&u=Kaleido-subs
           plugin_rss_limit: 8
