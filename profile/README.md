@@ -44,7 +44,7 @@ and see what sprouts out of it!
 <img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Kaleido-subs/.github/30687bc48758ec1468d7794723d6dc41c9aa8c86/github-metrics.svg">
+    <img src="../github-metrics.svg">
 </p>
 
 <!-- TODO: Make deschtimes progress visible here somehow or another? Shinon? -->
