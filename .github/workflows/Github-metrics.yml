@@ -2,33 +2,43 @@
 name: Metrics embed
 
 on:
-  schedule: [{cron: "0 0 */3 * *"}]
+  schedule:
+    - cron: "0 0 */3 * *"
+  push:
+    branches:
+      - main
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
-          # Your GitHub token
+          # Github token
           token: ${{ secrets.SECRET_README }}
+
+          retries: 3
+          retries_delay: 300
 
           # Options
           user: Kaleido-subs
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories: 250
+          repositories_skipped:
+            .github
+            project-template
+            fansub-git-guide
           config_timezone: Europe/Amsterdam
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
+          config_output: png
+          plugin_calendar: yes
+          plugin_rss: yes
+          plugin_rss_source: https://nyaa.si/?page=rss&u=Kaleido-subs
+          plugin_rss_limit: 8
+          plugin_followup: yes
           plugin_lines: yes
-          plugin_traffic: yes
-          plugin_tweets: yes
-          plugin_tweets_limit: 3
-          plugin_tweets_user: Kaleido-subs
-          repositories: 200
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
-          plugin_screenshot_background: no
+          plugin_repositories: yes
+          plugin_repositories_featured:
+            project-template
