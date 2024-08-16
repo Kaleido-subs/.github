@@ -44,7 +44,7 @@ and see what sprouts out of it!
 <img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 <p align="center">
-    <img src="../github-metrics.svg">
+    <img src="../github-metrics.png">
 </p>
 
 <!-- TODO: Make deschtimes progress visible here somehow or another? Shinon? -->
