@@ -28,7 +28,7 @@ Kaleido operates primarily through a freelancer-style model. We have a few core 
 peers to work on projects. This opens the doors to both veteran and green fansubbers to try their hands at projects and
 create some fansubs.
 
-<img src="../img/misc/hr.png" alt="divider"style="width: auto;">
+<img src="../img/misc/hr.png" alt="divider" style="width: auto;">
 
 We're very open to collaborations and open-source fansubbing projects! All our finalised releases will be publicly
 available in this organisation, and you are free to create your own forks to build upon them as you'd like. Full credit
