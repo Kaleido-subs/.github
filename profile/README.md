@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with us!</h3>
 <p align="center">
-    <a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="Discord" /></a>
+    <a href="https://discord.com/servers/stalleido-subs-443264565069742080" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="Discord" /></a>
     <!-- <a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/chrome.png" alt="Website"/></a> -->
     <a href="https://nyaa.si/user/Kaleido-subs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/cat.jpg" alt="Cat Site"/></a>
     <a href="https://nekobt.to/groups/4397444928050" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/nekobt.png" alt="Nekobt"/></a>
@@ -39,7 +39,7 @@ As these repositories are public, you can leave Issues and Pull Requests to let 
 subtitles or send in your own fixes!
 
 Want to work with Kaleido? We can try to work something out! Contact us through
-<a href=https://discord.gg/dk7aadV target="_blank">Discord</a>, and if there is staff interest, we can continue talks
+<a href=https://discord.com/servers/stalleido-subs-443264565069742080 target="_blank">Discord</a>, and if there is staff interest, we can continue talks
 and see what sprouts out of it!
 
 <img src="../img/misc/hr.png" alt="divider" style="width: auto;">
@@ -59,7 +59,7 @@ and see what sprouts out of it!
     <li>
     We're done when we're done, simple as that really. If you want specific details on what the hold-up may be, please
     check our <a href="https://kaleido.kageru.moe/" target="_blank">main website</a> for the Deschtimes feed, or feel
-    free to ask in our <a href="https://discord.gg/dk7aadV" target="_blank">Discord server</a> (and if you have the
+    free to ask in our <a href="https://discord.com/servers/stalleido-subs-443264565069742080" target="_blank">Discord server</a> (and if you have the
     relevant expertise, please do not hesitate to apply!).
     </li>
 </ul>
@@ -68,11 +68,11 @@ and see what sprouts out of it!
 <details><summary>How do I build your subtitles?</summary>
 <ul>
     <li>
-    We use a tool called <a href=https://github.com/Myaamori/SubKt target="_blank">SubKt</a> to build all our subtitle
+    We use a tool called <a href=https://github.com/TypesettingTools/SubKt target="_blank">SubKt</a> to build all our subtitle
     scripts. You can build the subtitles by running <code>./gradlew merge.01`</code> (or other episodes). For muxing,
     you must make sure the name of the encode you'd like to mux with matches the "premux" property of the project (check
      `<code>sub.properties</code>), and then run <code>./gradlew mux.01</code>. For further questions, please check out
-     the official <a href="https://github.com/Myaamori/SubKt/tree/master/docs" target="_blank">SubKt documentation</a>.
+     the official <a href="https://github.com/TypesettingTools/SubKt" target="_blank">SubKt documentation</a>.
     </li>
 </ul>
 </details>
