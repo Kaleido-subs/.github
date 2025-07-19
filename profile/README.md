@@ -9,10 +9,11 @@
 
 <h3 align="center">Connect with us!</h3>
 <p align="center">
-<a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="Discord" /></a>
-<a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/chrome.png" alt="Website"/></a>
-<a href="https://nyaa.si/user/Kaleido-subs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/cat.jpg" alt="Cat Site"/></a>
-<a href="https://twitter.com/kaleidosubs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/twitter.png" alt="Twitter" /></a>
+    <a href="https://discord.gg/dk7aadV" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/discord.png" alt="Discord" /></a>
+    <!-- <a href="https://kaleido.kageru.moe/" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/chrome.png" alt="Website"/></a> -->
+    <a href="https://nyaa.si/user/Kaleido-subs" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/cat.jpg" alt="Cat Site"/></a>
+    <a href="https://nekobt.to/groups/4397444928050" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/nekobt.png" alt="Nekobt"/></a>
+    <a href="https://bsky.app/profile/kaleido.fansubcar.tel" target="_blank"><img style="display: inline-block; width: 40px; height: auto; margin: 3px;" src="../img/icons/bluesky.png" alt="Bluesky" /></a>
 </p>
 
 <p align="center">
